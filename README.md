@@ -1,4 +1,8 @@
-# Hola soy Edgar. ¡Bienvenido a mi GitHub! 👋
+<img width="900" height="350" alt="data-analyst-bureau-moderne-1024x640" src="https://github.com/user-attachments/assets/e5dcd923-4239-4712-ad00-32511bc8bc84" />
+
+# Hola, mi nombre es Edgar. ¡Bienvenido a mi GitHub! 👋
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mil%C3%A1n/)
 
 ## 💫 Sobre mí:
@@ -16,9 +20,12 @@ Soy una persona con iniciativa y me gusta estar en constante aprendizaje, es por
 ---
 [![](https://visitcount.itsvg.in/api?id=EdgarMC23&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
+<!--![OIP (1)](https://github.com/user-attachments/assets/ccdecd3b-ae4f-44d3-b57e-cd07bbda50b0)
+![OIP (1)](https://github.com/user-attachments/assets/e379341b-13c7-4f7e-9586-9a044042def0)
+
 **EdgarMC23/EdgarMC23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,5 +37,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![OIP (1)](https://github.com/user-attachments/assets/514550c3-bff8-4ddb-83d1-abee33e93258)
+
 -->
