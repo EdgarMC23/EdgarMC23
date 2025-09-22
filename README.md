@@ -1,4 +1,4 @@
-<img width="900" height="350" alt="data-analyst-bureau-moderne-1024x640" src="https://github.com/user-attachments/assets/e5dcd923-4239-4712-ad00-32511bc8bc84" />
+<img width="1450" height="450" alt="Captura de pantalla 2025-09-22 143047" src="https://github.com/user-attachments/assets/4c1434a6-5ebf-4b23-8dcc-68c1de8ba512" />
 
 # Hola, mi nombre es Edgar. ¡Bienvenido a mi GitHub! 👋
 
