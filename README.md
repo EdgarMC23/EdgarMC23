@@ -20,23 +20,3 @@ Soy una persona con iniciativa y me gusta estar en constante aprendizaje, es por
 ---
 [![](https://visitcount.itsvg.in/api?id=EdgarMC23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--![OIP (1)](https://github.com/user-attachments/assets/ccdecd3b-ae4f-44d3-b57e-cd07bbda50b0)
-![OIP (1)](https://github.com/user-attachments/assets/e379341b-13c7-4f7e-9586-9a044042def0)
-
-**EdgarMC23/EdgarMC23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...![OIP (1)](https://github.com/user-attachments/assets/514550c3-bff8-4ddb-83d1-abee33e93258)
-
--->
