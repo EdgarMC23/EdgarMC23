@@ -6,8 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mil%C3%A1n/)
 
 ## 💫 Sobre mí:
-Ingeniero en mecatronica con estudios en analisis de datos
-Soy una persona con iniciativa y me gusta estar en constante aprendizaje, es por esto por lo que actualmente estoy cursando un bootcamp de tecnología que me permite adquirir suficientes conocimientos en diversos lenguajes de programación como SQL, Python y Tableu.
+Ingeniero en mecatronica con estudios en analisis de datos y pasion por descubrir patrones ocultos y convertir datos en decisiones. Listo e impaciente por aplicar mis conocimientos en el area IT para mejorar y optimizar los procesos analíticos y también de seguir estudiando y aprendiendo diferentes habilidades técnicas.
 
 
 
